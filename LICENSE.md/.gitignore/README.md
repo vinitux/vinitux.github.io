@@ -1,1 +1,0 @@
-# vinitux.github.io
