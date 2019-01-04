@@ -28,7 +28,7 @@ body {
   margin-top: 150px;
   padding: 30px;
   opacity: 1;
-  animation: FadeIn 2s ease-in-out;
+  animation: FadeIn 1s ease-in-out;
 }
 
 #vinit-logo {
