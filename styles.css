@@ -1,0 +1,43 @@
+:root {
+    --background-color: #FFF;
+    --text-color-c1: #000;
+    --font-family-primary: 'EB Garamond', serif;
+}
+
+body {
+  background-color: var(--background-color);
+  -webkit-font-smoothing: antialiased!important;
+}
+
+#main {
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+#content {
+  margin-top: 150px;
+  padding: 30px;
+}
+
+#vinit-logo {
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-family: var(--font-family-primary);
+  color: var(--text-color-c1); 
+  font-weight: 600;
+  font-size: 32px;
+}
+
+p {
+  font-family: var(--font-family-primary);
+  color: var(--text-color-c1);
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+}
+
+a {
+  color: var(--text-color-c1);
+}
