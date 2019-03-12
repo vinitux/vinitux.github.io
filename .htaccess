@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile ⁩https://github.com/vinitux/vinitux.github.io/.htpasswd  
+AuthUserFile ⁩vinitux.github.io/.htpasswd  
 require valid-user
